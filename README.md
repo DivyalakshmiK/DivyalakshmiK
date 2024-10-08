@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://github.com/DivyalakshmiK/DivyalakshmiK/blob/main/readme_int.png?raw=true"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -18,7 +16,7 @@
 
 ###
 
-<h2 align="center">Hey There!</h2>
+<h1 align="center">Hello, World!</h1>
 
 ###
 
@@ -34,15 +32,19 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">✅ About me : </h3>
 
 ###
 
-<p align="left">By Day:<br><br>--> Turning "What if?" into "It's workingg!" in mere days<br>--> Diving headfirst into the AI/ML rabbit hole<br>--> Much love to the open-source community<br><br>By Night:<br><br>--> Drowning in literature, emerging as a syntax poet<br>--> Dreaming in binary (but only for about 4 hours)<br><br><br>Always on the lookout for fellow tech enthusiasts to collaborate with. If you're passionate about turning coffee into code and making computers do magic, let's connect!<br><br>"In a world of 1s and 0s, be a 2." - Me, probably</p>
+<p align="left">By Day:<br><br>--> Turning "What if?" into "It's workingg!" in mere days<br>--> Diving headfirst into the AI/ML rabbit hole<br>--> Much love to the open-source community<br><br>By Night:<br><br>--> Drowning in literature, emerging as a syntax poet<br>--> Dreaming in binary (but only for about 4 hours)</p>
 
 ###
 
-<h3 align="left">Language and tools</h3>
+<h2 align="left"></h2>
+
+###
+
+<h3 align="left">✅ Languages and Tools : </h3>
 
 ###
 
@@ -104,22 +106,24 @@
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<h2 align="left"></h2>
+
+###
+
+<p align="left">Always on the lookout for fellow tech enthusiasts to collaborate with. If you're passionate about turning coffee into code and making computers do magic, let's connect!<br><br>"In a world of 1s and 0s, be a 2." - Me, probably</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<h3 align="left">✅ My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DivyalakshmiK&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DivyalakshmiK.DivyalakshmiK&"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
